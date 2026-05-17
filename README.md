@@ -1,5 +1,4 @@
-<!-- BANNER IN PROCESS -->
-
+<!-- TOP -->
 ## <img src="/assets/HiCat.gif" width="40" align="center" /> <i>Hello World</i>, Soy Victoria! <img src="/assets/HiCat.gif" width="40" align="center" />
 
  - Estudiante de <strong><i>Web Dev</i></strong> con grandes expectativas. <img src="/assets/NiceDuck.gif" width="55" >
