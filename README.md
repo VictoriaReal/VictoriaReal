@@ -2,32 +2,31 @@
 
 ## <img src="/assets/HiCat.gif" width="40" align="center" /> <i>Hello World</i>, Soy Victoria! <img src="/assets/HiCat.gif" width="40" align="center" />
 
- - Estudiante de <strong><i>Web Dev</i></strong> con grandes expectativas.
+ - Estudiante de <strong><i>Web Dev</i></strong> con grandes expectativas. <img src="/assets/NiceDuck.gif" width="55" >
  
 
-
 <!-- STACK -->
-<h2> <img src="/assets/TaptapCat.gif" width="30" align="center"/> Stack</h2>
-<h3><i>Lenguajes</i></h3>
+<h2><img src="/assets/TaptapCat.gif" width="30" align="center"/>Stack</h2>
+<img src="/assets/Blossom.gif" align="right" width="350"/>
+<h3><img src="/assets/File.gif" width="25" align="top"><i>Technologies</i></h3>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7E3A6.svg?style=flat&logo=javascript&logoColor=%23915120)
-![Java](https://img.shields.io/badge/Java-%23FAEFBE.svg?style=flat&logo=openjdk&logoColor=%23000000)
-![HTML](https://img.shields.io/badge/HTML-%23FFAF69.svg?style=flat&logo=html5&logoColor=%23C75B00)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23E5C158.svg?style=flat&logo=javascript&logoColor=%23543013)
+![Java](https://img.shields.io/badge/Java-%23D4A373.svg?style=flat&logo=openjdk&logoColor=%23FFFFFF)
+![PHP](https://img.shields.io/badge/PHP-%234F5D95.svg?style=flat&logo=PHP&logoColor=%23FFFFFF)
+![HTML](https://img.shields.io/badge/HTML-%23FFAF69.svg?style=flat&logo=html5&logoColor=%23FFFFFF)
 ![CSS3](https://img.shields.io/badge/CSS-%239ECBFF.svg?style=flat&logo=css&logoColor=%231970D1)
 ![React](https://img.shields.io/badge/React-%233E7994.svg?style=flat&logo=react&logoColor=%23FFFFFF)
 
-<h3><i>BBDD</i></h3>
+<h3><img src="/assets/File.gif" width="25" align="top"><i>BBDD</i></h3>
 
 ![MySQL](https://img.shields.io/badge/MySQL-%237ABBFF.svg?style=flat&logo=mysql&logoColor=%23FFFFFF)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234563E6.svg?style=flat&logo=postgresql&logoColor=%23FFFFFF)
 
-<h3><i>Herramientas</i></h3>
+<h3><img src="/assets/File.gif" width="25" align="top"><i>TOOLS</i></h3>
 
 ![Figma](https://img.shields.io/badge/Figma-%23502770.svg?style=flat&logo=figma&logoColor=%23DCB1FA)
 
 <!-- PORTFOLIO IN PROCESS -->
-
-
 
 <!-- STATS -->
 <h2> GitHub Stats</h2>
