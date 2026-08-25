@@ -14,7 +14,7 @@
 ![PHP](https://img.shields.io/badge/PHP-%234F5D95.svg?style=flat&logo=PHP&logoColor=%23FFFFFF)
 ![HTML](https://img.shields.io/badge/HTML-%23FFAF69.svg?style=flat&logo=html5&logoColor=%23FFFFFF)
 ![CSS3](https://img.shields.io/badge/CSS-%239ECBFF.svg?style=flat&logo=css&logoColor=%231970D1)
-![XML](https://img.shields.io/badge/React-%233E7994.svg?style=flat&logo=xml&logoColor=%23FFFFFF)
+![XML](https://img.shields.io/badge/XML-%233E7994.svg?style=flat&logo=xml&logoColor=%23FFFFFF)
 
 <h3><img src="/assets/File.gif" width="25" align="top"><i>BBDD</i></h3>
 
