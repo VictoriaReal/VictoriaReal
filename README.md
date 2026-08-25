@@ -1,5 +1,5 @@
 <!-- TOP -->
-## <img src="/assets/HiCat.gif" width="40" align="center" /> <i>Hello World</i>, Soy Victoria! <img src="/assets/HiCat.gif" width="40" align="center" />
+## <img src="/assets/HiCat.gif" width="40" align="center" /> <i>Hello World</i>, I'm Victoria! <img src="/assets/HiCat.gif" width="40" align="center" />
 
  - Estudiante de <strong><i>Web Dev</i></strong> con grandes expectativas. <img src="/assets/NiceDuck.gif" width="55" >
  
@@ -12,6 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23E5C158.svg?style=flat&logo=javascript&logoColor=%23543013)
 ![Java](https://img.shields.io/badge/Java-%23D4A373.svg?style=flat&logo=openjdk&logoColor=%23FFFFFF)
 ![PHP](https://img.shields.io/badge/PHP-%234F5D95.svg?style=flat&logo=PHP&logoColor=%23FFFFFF)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=%23FFFFFF)
 ![HTML](https://img.shields.io/badge/HTML-%23FFAF69.svg?style=flat&logo=html5&logoColor=%23FFFFFF)
 ![CSS3](https://img.shields.io/badge/CSS-%239ECBFF.svg?style=flat&logo=css&logoColor=%231970D1)
 ![XML](https://img.shields.io/badge/XML-%233E7994.svg?style=flat&logo=xml&logoColor=%23FFFFFF)
@@ -24,7 +25,7 @@
 <h3><img src="/assets/File.gif" width="25" align="top"><i>TOOLS</i></h3>
 
 ![Figma](https://img.shields.io/badge/Figma-%23502770.svg?style=flat&logo=figma&logoColor=%23DCB1FA)
-
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 <!-- PORTFOLIO IN PROCESS -->
 
 <!-- STATS -->
